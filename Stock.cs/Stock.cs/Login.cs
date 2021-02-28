@@ -17,10 +17,23 @@ namespace Stock.cs
         {
             InitializeComponent();
         }
-
+        bool close = true;
         private void exitbtn_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+           // Application.Exit();
+            if (close)
+            {
+                DialogResult dr = MessageBox.Show("Are You Sure you want to Exit APP.", "Message", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (dr == DialogResult.Yes)
+                {
+                    close = false;
+                    Application.Exit();
+                }
+                else
+                {
+                    close = true;
+                }
+            }
         }
 
         private void Clearbtn_Click(object sender, EventArgs e)
