@@ -33,3 +33,38 @@ E:\4th semester\FinalYP\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppSe
 E:\4th semester\FinalYP\Stock.cs\Stock.cs\obj\Debug\Stock.cs.csprojResolveAssemblyReference.cache
 E:\4th semester\FinalYP\Stock.cs\Stock.cs\bin\Debug\Reports\Stockrpt.rpt
 E:\4th semester\FinalYP\Stock.cs\Stock.cs\bin\Debug\Reports\Stockrpt.cs
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\Stock.cs.exe.config
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.exe
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.pdb
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\Reports\Stockrpt.rpt
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\Reports\Stockrpt.cs
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\Stock.cs.exe
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\Stock.cs.pdb
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.Shared.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\FlashControlV71.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\ShockwaveFlashObjects.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\stdole.dll
+E:\FYPStock\Stock.cs\Stock.cs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.csprojResolveAssemblyReference.cache
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.Login.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.Products.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.Properties.Resources.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.ReportForm.ProductsReport.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.ReportForm.StockReport.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.Stock.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.StockMain.resources
+E:\FYPStock\Stock.cs\Stock.cs\obj\Debug\Stock.cs.csproj.GenerateResource.Cache
