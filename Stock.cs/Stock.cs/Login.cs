@@ -20,7 +20,7 @@ namespace Stock.cs
         bool close = true;
         private void exitbtn_Click(object sender, EventArgs e)
         {
-           // Application.Exit();
+            //add new condition in close button...
             if (close)
             {
                 DialogResult dr = MessageBox.Show("Are You Sure you want to Exit APP.", "Message", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
